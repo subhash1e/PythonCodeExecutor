@@ -1,5 +1,5 @@
 # PythonCodeExecutor
-# A simple android applicaion to run python programs Offline
+# A simple android application to run python programs Offline
 
 this library is used for running python https://chaquo.com/chaquopy/doc/current/
 # download
